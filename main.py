@@ -1,1 +1,1 @@
-print("meu segundo projeto!")
+import scipy.p 
