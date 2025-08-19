@@ -1,1 +1,1 @@
-import scipy.p 
+print("teste")
